@@ -27,7 +27,7 @@ namespace TestingVS2019_2
             return total;
         }
 
-        public Array()
+        public Array() 
         {
             //arr.SetValue(32, 0);
             //arr.SetValue(55, 1);
